@@ -6,6 +6,9 @@ You have been hired by the University of Data Science to manage their students' 
 
 In this project, I applied the following concepts:
 -Mathematical operations
+
 -List operations
+
 -Dictionary operations
+
 -String indexing and formatting
